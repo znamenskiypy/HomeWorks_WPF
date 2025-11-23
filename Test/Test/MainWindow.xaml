@@ -7,9 +7,18 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button Content = "Push me"
-                Height="50" 
-                Width="150"/>
+        <Button  
+            Content= "Push me"
+            Height="50" 
+            Width="150" 
+            Click="Button_Click"/>
+        <TextBlock x:Name="Counter"
+                   Text="0" 
+                   Margin="0,60,0,0" 
+                   FontSize="20" 
+                   HorizontalAlignment="Center" 
+                   VerticalAlignment="Top"
+        />
 
     </Grid>
 </Window>

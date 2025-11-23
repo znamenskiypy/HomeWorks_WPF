@@ -16,8 +16,18 @@ namespace Test;
 /// </summary>
 public partial class MainWindow : Window
 {
+    int counter = 0;
     public MainWindow()
     {
         InitializeComponent();
+        Counter.Text = counter.ToString();
+
+    }
+
+    private void Button_Click(object sender, RoutedEventArgs e)
+    {
+        counter++;
+        Counter.Text = counter.ToString();
+
     }
 }
