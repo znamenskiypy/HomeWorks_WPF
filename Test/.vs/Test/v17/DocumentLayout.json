@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\znamenskiypy\\source\\repos\\HomeWorks_WPF\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7300BA-C1EC-4AED-A553-1AEE834907B6}|Test\\Test.csproj|c:\\users\\znamenskiypy\\source\\repos\\homeworks_wpf\\test\\test\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1B7300BA-C1EC-4AED-A553-1AEE834907B6}|Test\\Test.csproj|solutionrelative:test\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\znamenskiypy\\source\\repos\\HomeWorks_WPF\\Test\\Test\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Test\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\znamenskiypy\\source\\repos\\HomeWorks_WPF\\Test\\Test\\MainWindow.xaml",
+              "RelativeToolTip": "Test\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-24T09:38:23.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
